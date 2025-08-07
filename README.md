@@ -1,7 +1,5 @@
 # Earth911-LLM-Extractor
 
-# Earth911 Scraper + LLM Extractor
-
 A solution for scraping recycling facility data from [Earth911](https://search.earth911.com/) and structuring it using LLMs (via LangChain and Ollama). Combines modern web scraping with AI-assisted data extraction and validation.
 
 ---
