@@ -109,3 +109,11 @@ I used a **modular pipeline** approach:
     "materials_accepted": ["Laptops", "Cell Phones", "Batteries"]
   }
 ]
+```
+
+## Future Expansion
+- Support scraping additional material categories beyond Electronics.
+- Improve LLM prompt tuning for better accuracy and reduced errors.
+- Add automated error correction and retry logic for failed parses.
+- Build a user-friendly dashboard to visualize and manage scraped data.
+- Scale scraping to handle larger datasets.
