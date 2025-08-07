@@ -37,7 +37,7 @@ I used a **modular pipeline** approach:
 
 #### Tools Used:
 - **Playwright (Python):** Modern, fast scraper that handles dynamic pages better than Selenium
-- **LangChain + Ollama:** For local LLM calls (e.g., Mistral, Phi-3, LLaMA2)
+- **LangChain + Ollama:** For local LLM calls (e.g., Mistral)
 - **BeautifulSoup:** For clean and reliable HTML parsing
 - **Custom validation logic:** To enforce JSON schema after LLM output
 
