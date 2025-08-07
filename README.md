@@ -110,6 +110,7 @@ I used a **modular pipeline** approach:
   }
 ]
 ```
+---
 
 ## Future Expansion
 - Support scraping additional material categories beyond Electronics.
